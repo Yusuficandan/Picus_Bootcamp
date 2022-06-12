@@ -48,17 +48,17 @@
     - **Software Discovery**
 
 8. What are the payload/s for web application threats?
-
-- **GET /166530/dotnettojs.hta HTTP/1.1**
-- **Host: 127.0.0.1:80**
-- **User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E)**
-- **Accept: */***
-- **Accept-Encoding: gzip, deflate**
-- **Accept-Language: en-US,en;q=0.5**
-- **Ua-Cpu: AMD64**
-- **X-Forwarded-For: 10.10.10.108**
-- **X-Forwarded-Host:**
-
+```
+ GET /166530/dotnettojs.hta HTTP/1.1
+ Host: 127.0.0.1:80
+ User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E)**
+ Accept:/
+ Accept-Encoding: gzip, deflate
+ Accept-Language: en-US,en;q=0.5
+ Ua-Cpu: AMD64
+ X-Forwarded-For: 10.10.10.108
+ X-Forwarded-Host:
+```
 9. What are the affected product/s for web application threat/s?
 
 - Windows registry, process monitoring, azure activity logs, stackdriver logs, file monitoring
