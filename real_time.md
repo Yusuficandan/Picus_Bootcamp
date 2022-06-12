@@ -2,17 +2,17 @@
 ### File hashes
 
 > - 764796-1652561297
->     - c3aceb1e2eb3a6a3ec54e32ee620721e / `infected`
+>     - c3aceb1e2eb3a6a3ec54e32ee620721e `infected`
 > - dotnettojs.hta
->    - 34c1f71a6a31cd07a8e95d4d0efc8427 / `infected`
+>    - 34c1f71a6a31cd07a8e95d4d0efc8427 `infected`
 > - 48bb5f9092051be24e1deac81d53e0fe `Not infected`
 > - c9286944736d25a6d58e2325bf03a892 `Not infected`
-
-1.What is the IP of the organization&DNS server/s?
+<br><br>
 #
-- **DNS: 8.8.4.4**
-- **Amazon: 205.251.242.103 / 54.239.28.85 / 176.32.103.205**
-- **Google: 172.217.23.110 / 172.217.16.142**
+1.What is the IP of the organization&DNS server/s?
+    - **DNS: 8.8.4.4**
+    - **Amazon: 205.251.242.103 / 54.239.28.85 / 176.32.103.205**
+    - **Google: 172.217.23.110 / 172.217.16.142**
 
 2. What is the name of the malicious file/s downloaded by the accountant?
 
