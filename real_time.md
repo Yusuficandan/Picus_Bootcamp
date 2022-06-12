@@ -27,8 +27,8 @@
 
 4. What is the name of the malware/s, according to BitDefender?
 
-- **Generic.Ransom.Hive.A.3532D023**
-- **JS:Trojan.Agent.CSOU**
+> - **Generic.Ransom.Hive.A.3532D023**
+> - **JS:Trojan.Agent.CSOU**
 
 5. What is the malware type of the malicious file/s?
 
