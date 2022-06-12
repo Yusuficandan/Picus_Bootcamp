@@ -2,11 +2,11 @@
 ### File hashes
 
 > - 764796-1652561297
->     - c3aceb1e2eb3a6a3ec54e32ee620721e / infected
+>     - c3aceb1e2eb3a6a3ec54e32ee620721e / `infected`
 > - dotnettojs.hta
->    - 34c1f71a6a31cd07a8e95d4d0efc8427 / infected
-> - 48bb5f9092051be24e1deac81d53e0fe / not infected
-> - c9286944736d25a6d58e2325bf03a892 / `Not infected`
+>    - 34c1f71a6a31cd07a8e95d4d0efc8427 / `infected`
+> - 48bb5f9092051be24e1deac81d53e0fe `Not infected`
+> - c9286944736d25a6d58e2325bf03a892 `Not infected`
 
 1.What is the IP of the organization&DNS server/s?
 #
