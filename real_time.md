@@ -17,13 +17,13 @@
 ```
 2. What is the name of the malicious file/s downloaded by the accountant?
 
-- **764796-1652561297.exe**
-- **dotnettojs.hta**
+> - **764796-1652561297.exe**
+> - **dotnettojs.hta**
 
 3. What is the sha256 hash of the downloaded malicious file/s?
 
-- **77a398c870ad4904d06d455c9249e7864ac92dda877e288e5718b3c8d9fc6618**
-- **64adf742707b89faa233c976e63338e5fb75eadd86d7d38139f2b5f4f32c7d72**
+> - **77a398c870ad4904d06d455c9249e7864ac92dda877e288e5718b3c8d9fc6618**
+> - **64adf742707b89faa233c976e63338e5fb75eadd86d7d38139f2b5f4f32c7d72**
 
 4. What is the name of the malware/s, according to BitDefender?
 
@@ -32,20 +32,20 @@
 
 5. What is the malware type of the malicious file/s?
 
-- **Ransomware**
-- **Trojan**
+> - **Ransomware**
+> - **Trojan**
 
 6. What is the malware family of the malicious file/s?
 
-- **Hive**
-- **Agent**
+> - **Hive**
+> - **Agent**
 
 7. What are the used TTP/s according to the MITRE ATT&CK framework for malicious file/s?
 
-- **Discovery**
-    - **Query Registry**
-    - **System information Discovery**
-    - **Software Discovery**
+> - **Discovery**
+>     - **Query Registry**
+>     - **System information Discovery**
+>     - **Software Discovery**
 
 8. What are the payload/s for web application threats?
 ```
@@ -61,8 +61,8 @@
 ```
 9. What are the affected product/s for web application threat/s?
 
-- Windows registry, process monitoring, azure activity logs, stackdriver logs, file monitoring
+> - Windows registry, process monitoring, azure activity logs, stackdriver logs, file monitoring
 
 10. If it exists for web application threats, what are the CVE and CWE number/s of the webapplication threats?
 
-- CVE-2020-5754
+> - CVE-2020-5754
