@@ -10,10 +10,11 @@
 <br><br>
 #
 1.What is the IP of the organization&DNS server/s?
+```
  - **DNS: 8.8.4.4**
  - **Amazon: 205.251.242.103 / 54.239.28.85 / 176.32.103.205**
  - **Google: 172.217.23.110 / 172.217.16.142**
-
+```
 2. What is the name of the malicious file/s downloaded by the accountant?
 
 - **764796-1652561297.exe**
