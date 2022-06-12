@@ -1,0 +1,25 @@
+### ***Legal and regulatory compliance***
+
+Meeting a growing number of legal and regulatory compliance such as NIST, PCI, GLBA, FISMA, HITECH (HIPPA), and GDPR to name a few, as well as industry best practices, will inherently have an impact on any organization, but can have a heavy bearing depending on the specific industry or geographical location. Using the example of the upcoming Global Data Protection Regulation, taking effect on May 25, 2018, it is even more important for security operations centers to have mandatory processes and procedures clearly in place which are conducted in a legally and policy-compliant manner. Providing sufficient incident reporting and breach notification within the required parameters (in the case of GDPR to notify the supervisory authority within 72 hrs of a breach) is going to be key, or the legal, financial and reputational impact and repercussions could be significant.
+
+Based on these five challenges alone, enterprise SOCs and CSIRTs are struggling to remain efficient and effective and are increasingly being forced to do more with less, while striving to keep up with the current threat landscape and a plethora of security alerts.
+
+With security incidents becoming more costly, enterprises need to find new ways to further reduce the meantime to detection and resolution. As a result, security and risk management leaders will see the business need to invest in Security Orchestration, Automation and Response (SOAR) technology and tools, such as the Cloud SOAR platform from Sumo Logic, to help improve their security operations proficiency, efficacy, and quality, in order to keep their cyber incident under control.
+
+### **Increasing volumes of security alerts**
+
+With the snowballing number of security alerts being received, valuable analyst time is being consumed sorting through a plethora of security alerts. Most commonly, time is wasted performing a multitude of mundane tasks to triage and determine the veracity of the alerts, often resulting in alerts being missed or those of more damaging consequences slipping through the net as they are overlooked. As you can probably imagine, analysts' time would be better spent working on the more sophisticated alerts that need human intervention, as well as proactively threat hunting, in order to minimize the time from breach discovery to resolution.
+
+### **Management of numerous security tools**
+
+As a wider range of security suites are being adopted by SOCs and CSIRTs, it is becoming ever more difficult to effectively monitor all of the data being generated from the multiplying number of data points and sources. A typical Security Operations Center (SOC) may use a combination of 20 or more technologies, which understandably can be difficult to monitor and manage individually. It is therefore important to be able to have a central source and single platform to summarize all of the information as it is being generated and to be able to have a helicopter view of your overall security environment to manage, monitor, and measure security operations and incident response processes effectively.
+
+### **Competition for skilled analysts and lack of knowledge transfer between analysts**
+
+With the global [cybersecurity talent shortage to hit 1.2m by 2020](https://www.telegraph.co.uk/technology/2017/02/14/lack-cyber-skills-leaves-britain-open-hackers/) and to increase to 1.8m by 2022, the pool of suitable analysts will only continue to diminish over time, with the level of competition becoming more fierce for analysts that have the required skill set. As with most companies and industries, workforce comes and goes, but knowledge transfer is particularly important within a security operations center and incident response teams, in order to ensure the correct response and process takes place within the minimal amount of time, reducing the time to incident detection and time to incident resolution. This lack of knowledge transfer can inevitably lead to increased response times and wasted resources.
+
+### **Uncertainty about the mission**
+
+Many SOC staffers interviewed for the report appeared to be unsure about their core mission. They either did not have one, or it had not been communicated to staff and other stakeholders. In many cases, SOC managers did not have a clear idea as to which business assets—such as applications and data—were most important to protect. As a result, they had little idea of which threats were most important to focus on.
+
+To be effective, SOC staffers must have a clear idea of what they are required to protect and why, the report said. They need to know, for example, if the mission is to keep operational technology safe from state-sponsored threat actors or to protect intellectual property from competitors. Only if companies are clear about the mission can operational capabilities be properly aligned to meeting it.
