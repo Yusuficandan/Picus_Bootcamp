@@ -1,12 +1,13 @@
 
 ### File hashes
 
-> - 764796-1652561297
+
+> - <a href="projects/files/764796-1652561297.exe">764796-1652561297</a>
 >     - c3aceb1e2eb3a6a3ec54e32ee620721e `infected`
-> - dotnettojs.hta
+> - <a href="projects/files/dotnettojs.hta">dotnettojs.hta</a>
 >    - 34c1f71a6a31cd07a8e95d4d0efc8427 `infected`
-> - 48bb5f9092051be24e1deac81d53e0fe `Not infected`
-> - c9286944736d25a6d58e2325bf03a892 `Not infected`
+> - <a href="projects/files/heartbeat-1652561296.html">48bb5f9092051be24e1deac81d53e0fe</a> `Not infected`
+> - <a href="projects/files/script%3E">c9286944736d25a6d58e2325bf03a892</a> `Not infected`
 <br><br>
 #
 
